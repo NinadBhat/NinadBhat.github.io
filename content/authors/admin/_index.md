@@ -44,18 +44,18 @@ interests:
   - Materials Design
 
 education:
-  - area: PhD
+  - area: Doctor of Philosophy (PhD)
     institution: Australian National University
     date_start: 2020-01-16
     date_end: 2024-12-01
     summary: |
       Worked on design new aluminum alloys using machine learning techniques.
 
-  - area: M.Tech Materials Science and Metallurgical Engineering
+  - area: Master of Technology (M.Tech)
     institution: Indian Institute of Technology, Bombay
     date_end: 2019-07-01
 
-  - area: B.Tech Materials Science and Metallurgical Engineering
+  - area: Bachelor of Technology (B.Tech)
     institution: Indian Institute of Technology, Bombay
     date_end: 2019-07-01
 
