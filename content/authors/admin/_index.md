@@ -9,8 +9,6 @@ first_name: Ninad
 last_name: Bhat
 
 # Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -99,6 +97,10 @@ skills:
         description: ''
         icon: person-simple-walk
       - name: Badminton
+        description: ''
+        percent: 80
+        icon: badminton
+      - name: Open Source Software
         description: ''
         percent: 80
         icon: badminton
