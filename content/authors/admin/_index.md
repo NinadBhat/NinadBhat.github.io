@@ -38,8 +38,9 @@ profiles:
     url: https://scholar.google.com.au/citations?hl=en&user=On-bq4kAAAAJ
 
 interests:
-  - Machine Learning
+  - Software Development
   - Materials Design
+  - Machine Learning
 
 education:
   - area: Doctor of Philosophy (PhD)
@@ -72,6 +73,47 @@ work:
     date_start: 2022-06-01
     date_end: 2024-03-31
 
+  - position:  Casual Software Engineer
+    company_name: Instaclustr by NetApp
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-11-01
+    date_end: 2021-05-30
+
+  - position:  Researcher
+    company_name: NanoCube
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-11-15
+    date_end: 2022-03-15
+
+  - position:  Open Source Software Developer
+    company_name: AiiDA - Google Summer of Code
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-05-01
+    date_end: 2022-08-01
+
+  - position:  Open Source Software Developer
+    company_name: MDAnalysis - Google Summer of Code
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-05-01
+    date_end: 2019-08-01
+
+  - position:  Software Engineer Intern
+    company_name: Monash University
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-06-01
+    date_end: 2017-12-01
+
+  - position:  Open Source Software Contributor
+    company_name: Mozilla (Balrog)
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-09-01
+    date_end: 2017-02-01
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -81,7 +123,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Machine Learning
         description: ''
         percent: 100
         icon: chart-bar
@@ -105,38 +147,10 @@ skills:
         percent: 80
         icon: badminton
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
 ---
 
 ## About Me
 
-I am software engineer.
+I am a software developer and machine learning engineer with three years of Python development experience. I am currently pursuing a PhD in Applied Machine Learning for Materials Design at the Australian National University. During my PhD, I worked at the [Software Innovation Institute](https://sii.anu.edu.au/) and [Instaclustr by NetApp](https://www.instaclustr.com/). I also did two research internships at the [Materials Data Science and Informatics (IAS-9)](https://www.fz-juelich.de/en/ias/ias-9) in Germany, supported by HIDA, and [Nanocube](https://www.nanocube.com.au/) in Australia, supported by APR Intern. Before this, I completed my Bachelor's and Master's degrees at the Indian Institute of Technology, Bombay.
+
