@@ -145,7 +145,7 @@ skills:
       - name: Open Source Software
         description: ''
         percent: 80
-        icon: badminton
+        icon: python
 
 
 ---
