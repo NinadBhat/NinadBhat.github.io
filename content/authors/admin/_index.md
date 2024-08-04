@@ -150,7 +150,7 @@ skills:
 
 ---
 
-# About Me
+# About
 
-I am a software developer and machine learning engineer with three years of Python development experience. I am currently pursuing a PhD in Applied Machine Learning for Materials Design at the Australian National University. During my PhD, I worked at the [Software Innovation Institute](https://sii.anu.edu.au/) and [Instaclustr by NetApp](https://www.instaclustr.com/). I also did two research internships at the [Materials Data Science and Informatics (IAS-9)](https://www.fz-juelich.de/en/ias/ias-9) in Germany, supported by HIDA, and [Nanocube](https://www.nanocube.com.au/) in Australia, supported by APR Intern. Before this, I completed my Bachelor's and Master's degrees at the Indian Institute of Technology, Bombay.
+I am a software developer and machine learning engineer, currently pursuing a PhD in Applied Machine Learning for Materials Design at the Australian National University. During my PhD, I worked as a software engineer at the [Software Innovation Institute](https://sii.anu.edu.au/) and [Instaclustr by NetApp](https://www.instaclustr.com/). I also did two research internships at the [Materials Data Science and Informatics (IAS-9)](https://www.fz-juelich.de/en/ias/ias-9) in Germany, and [Nanocube](https://www.nanocube.com.au/) in Australia. I also participated in Google Summer of Code 2021 with [AiiDA](https://www.aiida.net/) to develop [AiiDA-RESTAPI](https://github.com/aiidateam/aiida-restapi). Before this, I completed my Bachelor's and Master's degrees at the Indian Institute of Technology, Bombay.
 
