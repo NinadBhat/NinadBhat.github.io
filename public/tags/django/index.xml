@@ -17,7 +17,7 @@
       <link>//localhost:1313/project/alloy-designer/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/project/alloy-designer/</guid>
-      <description>&lt;p&gt;ML Alloy Designer is a tool designed to help users design new alloys.&lt;/p&gt;</description>
+      <description>&lt;p&gt;ML Alloy Designer is a tool developed to help users design new alloys. It predicts the mechanical properties of alloys based on their elemental composition and can also determine the composition of new alloys to achieve a desired set of properties.&lt;/p&gt;</description>
     </item>
     
   </channel>
