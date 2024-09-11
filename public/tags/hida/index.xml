@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HIDA | Ninad Bhat</title>
+    <link>//localhost:1313/tags/hida/</link>
+      <atom:link href="//localhost:1313/tags/hida/index.xml" rel="self" type="application/rss+xml" />
+    <description>HIDA</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu5894b4b02461fc89307f880b6a495a13_8158_512x512_fill_lanczos_center_3.png</url>
+      <title>HIDA</title>
+      <link>//localhost:1313/tags/hida/</link>
+    </image>
+    
+    <item>
+      <title>Completed HIDA Visiting Research Fellowship</title>
+      <link>//localhost:1313/post/hida-completion/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/hida-completion/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Worked as a part of Concepts and Tools for Research Data Management Team.&lt;/li&gt;
+&lt;li&gt;Developed a Python package for the automated annotation of crystal structure data using &lt;a href=&#34;https://github.com/OCDO/cmso-ontology&#34;&gt;Computational Material Sample Ontology (CMSO)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Successfully released &lt;a href=&#34;https://github.com/Materials-Data-Science-and-Informatics/atomID&#34;&gt;atomID&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Traveling to Germany for HIDA Visiting Research Fellowship</title>
+      <link>//localhost:1313/post/hida-start/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/hida-start/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Sponsored by the &lt;a href=&#34;https://www.helmholtz-hida.de/en/new-horizons/hida-visiting-program/&#34;&gt;Helmholtz Visiting Researcher Grant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Visiting the Materials Data Science and Informatics (IAS-9) department at Forschungszentrum Jülich, Germany.&lt;/li&gt;
+&lt;li&gt;Collaborating with the Concepts and Tools for Research Data Management Team.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

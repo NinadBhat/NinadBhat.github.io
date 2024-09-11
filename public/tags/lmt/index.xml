@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LMT | Ninad Bhat</title>
+    <link>//localhost:1313/tags/lmt/</link>
+      <atom:link href="//localhost:1313/tags/lmt/index.xml" rel="self" type="application/rss+xml" />
+    <description>LMT</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu5894b4b02461fc89307f880b6a495a13_8158_512x512_fill_lanczos_center_3.png</url>
+      <title>LMT</title>
+      <link>//localhost:1313/tags/lmt/</link>
+    </image>
+    
+    <item>
+      <title>Attended Light Metals Technology 2023</title>
+      <link>//localhost:1313/post/melbourne-conference/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/melbourne-conference/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Presented my work on &amp;lsquo;Enhancing Mechanical Property Predictions in Aluminium Alloys using Data-Driven Class-Based Regressors&amp;rsquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

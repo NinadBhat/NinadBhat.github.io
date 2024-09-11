@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Ninad Bhat</title>
+    <link>//localhost:1313/project/</link>
+      <atom:link href="//localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu5894b4b02461fc89307f880b6a495a13_8158_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>//localhost:1313/project/</link>
+    </image>
+    
+    <item>
+      <title>ML Alloy Designer</title>
+      <link>//localhost:1313/project/alloy-designer/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/alloy-designer/</guid>
+      <description>&lt;p&gt;ML Alloy Designer is a tool designed to help users design new alloys.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Alloy Mixing Calculator</title>
+      <link>//localhost:1313/project/alloy-calc/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/alloy-calc/</guid>
+      <description>&lt;p&gt;Alloy Mixing Calculator is a tool designed to help users calculate the composition of alloys by weight. It provides a simple and user-friendly interface for users to input the desired alloy composition and calculate the corresponding weight percentages of each element in the alloy.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>atomId</title>
+      <link>//localhost:1313/project/atomid/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/atomid/</guid>
+      <description>&lt;p&gt;Python package to annotate crystal structures data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AiiDA-REST</title>
+      <link>//localhost:1313/project/aiida-rest/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/aiida-rest/</guid>
+      <description>&lt;p&gt;Restful API for workflow management using AiiDA.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
