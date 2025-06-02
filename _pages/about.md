@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle:
 
-
 profile:
   align: right
   image: prof_pic.jpg
@@ -31,4 +30,3 @@ Previously, I completed a PhD in Applied Machine Learning at the Australian Nati
 I hold a Bachelor's and Master's degree from IIT Bombay.
 
 I always look forward to discussing new ideas and exploring potential collaborations. Feel free to reach out via [email](mailto:bhat.ninad@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ninad-bhat/).
-
